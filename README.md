@@ -25,7 +25,7 @@ classification of kidney dieses based upon CT-scan of body
 Clone the repository
 
 ```bash
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+https://github.com/vaibhav-108/kidney_classification
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
